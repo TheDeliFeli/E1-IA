@@ -1,6 +1,6 @@
 # E1_IA_G-14
 
-Evaluación 1: Calidad y Preparación de Datos para IA \n
+Evaluación 1: Calidad y Preparación de Datos para IA /n
 Universidad del Bío-Bío
 Facultad de Ciencias Empresariales
 Carrera: Ingeniería Civil en Informática
