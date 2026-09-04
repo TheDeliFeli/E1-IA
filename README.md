@@ -1,5 +1,13 @@
 # E1_IA_G-14
 
+Evaluación 1: Calidad y Preparación de Datos para IA
+Universidad del Bío-Bío
+Facultad de Ciencias Empresariales
+Carrera: Ingeniería Civil en Informática
+Asignatura: Inteligencia Artificial (620454)
+Docente: Prof. Jazna Meza Hidalgo
+Semestre: 2026-2
+
 Felipe Eduardo Troncoso Salazar - felipe.troncoso2301@alumnos.ubiobio.cl
 
 Luciano Rodrigo Esteban Garcés Garrido - luciano.garces2301@alumnos.ubiobio.cl
